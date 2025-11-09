@@ -9,11 +9,11 @@
     - Shared Chat Link :
     - Notes (optional) :
 
-*If a tool does not support link sharing, please specify and paste prompt-response logs in Section 3.*
+*If a tool does not support link sharing, please specify and paste prompt-response logs in next Section*
 
 ---
 
-## 3️⃣ Prompts and Responses Used
+## Prompts and Responses Used
 > Include **all prompts** that contributed to solving the exam tasks
 
 > Include **all responses** in case of public share links are not available to share
