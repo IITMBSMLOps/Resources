@@ -1,4 +1,4 @@
-# 🎥 OBS Recording Profiles — Zoom-Style Quality (MKV Safe)
+# 🎥 OBS Recording Profiles
 
 This repository provides **two optimized OBS Studio profiles** (`Quality-720p.ini` and `Quality-1080p.ini`) designed for — compact file sizes with clear voice and screen quality.
 Both use **MKV** for crash-safe recording and efficient compression with **H.264 (x264)** codec.
